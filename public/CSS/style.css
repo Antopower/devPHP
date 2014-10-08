@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+
+body {
+	font-size: 14px;
+	background: #F2F4F5;
+}
+
+
+
+.panel-heading h1, 
+.jumbotron h1  {
+	font-size: 16px;
+}
+
+thead, tbody {
+	font-size: 14px;
+}
+
+.btn-info, .btn-danger {
+	font-size: 14px;
+}
+
+.modal {
+ overflow-y: auto;
+}
+
+.modal-open {
+ overflow: auto;
+}

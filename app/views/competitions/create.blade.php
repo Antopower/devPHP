@@ -23,7 +23,7 @@
 				{{ Form::select('sportsListe', $sportsListe, array_values($sportsListe)[0], array('id' => 'sportsListe')) }}
 				<h1>Veuillez choisir une épreuve</h1>
 				<div id="liste-epreuves">
-					
+
 				</div>
 				<div id="liste-participant">
 				</div>
